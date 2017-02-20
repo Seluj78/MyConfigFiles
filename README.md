@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    README.md                                          :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jlasne <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/02/20 13:00:03 by jlasne            #+#    #+#              #
+#    Updated: 2017/02/20 13:00:06 by jlasne           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 # MyConfigFiles
 This is the repository where I store my config files for vim and zshrc, with an installer
 
