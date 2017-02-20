@@ -1,0 +1,12 @@
+set nocompatible              " be iMproved, required
+filetype off                  " required
+syn on
+set number
+set mouse=a
+set tabstop=4
+set backupdir=~/.vim
+set ts=4
+set colorcolumn=81
+:%retab!
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/

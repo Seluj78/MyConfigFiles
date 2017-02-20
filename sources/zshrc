@@ -1,0 +1,4 @@
+alias gpush="~/.gpush.sh"
+alias gww="gcc -Werror -Wall -Wextra"
+alias gcom="git commit -a -m"
+alias gadd="git add -A"
