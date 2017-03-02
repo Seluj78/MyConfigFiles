@@ -5,6 +5,7 @@ echo "\033[34m\033[1mGetting the files needed :"
 echo "\033[35m"
 
 git clone https://github.com/seluj78/myconfigfiles.git /tmp/setupconfig
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 echo "\033[0m"
 echo "\033[34m\033[1mCoping the files to a temporary location (Usually /tmp)\033[32m"
@@ -74,4 +75,7 @@ done
 rm -rf /tmp/setupconfig
 
 echo "\n\033[34m\033[1mDone installing.\033[0m"
+
+echo "Open vim +PluginInstall to finish the wakatime installation"
+
 echo "\n"
