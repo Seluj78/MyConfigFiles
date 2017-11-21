@@ -13,3 +13,13 @@ export LESS_TERMCAP_us=$(printf '\e[04;36m') # enter underline mode - cyan
 
 alias norm="norminette -R CheckForbiddenSourceHeader"
 alias norme="norm"
+
+alias mak="make"
+alias mke="make"
+alias makw="make"
+alias mkw="make"
+alias male="make"
+
+
+export PATH=$PATH:/Users/jlasne/bin/bats/bin
+export PATH="/Users/jlasne/.brew/bin:$PATH"
