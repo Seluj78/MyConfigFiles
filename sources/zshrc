@@ -1,3 +1,5 @@
+plugins=(git chucknorris)
+
 alias gpush="~/.gpush.sh"
 alias gww="gcc -Werror -Wall -Wextra"
 alias gcom="git commit -a -m"
@@ -23,3 +25,4 @@ alias male="make"
 
 export PATH=$PATH:/Users/jlasne/bin/bats/bin
 export PATH="/Users/jlasne/.brew/bin:$PATH"
+chuck_cow
