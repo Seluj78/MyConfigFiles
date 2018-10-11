@@ -1,4 +1,20 @@
-plugins=(git chucknorris)
+plugins=(
+  git
+  zsh-autosuggestions
+  chucknorris
+  zsh-256color
+  alias-tips
+  apache2
+  autoupdate
+  careful_rm
+  colored-man-pages
+  quoter-zsh
+  randeme
+  send
+  startup-time
+  oh-my-matrix
+  notify
+)
 
 alias gpush="~/.gpush.sh"
 alias gww="gcc -Werror -Wall -Wextra"
@@ -25,4 +41,12 @@ alias male="make"
 
 export PATH=$PATH:/Users/jlasne/bin/bats/bin
 export PATH="/Users/jlasne/.brew/bin:$PATH"
+
+eval $(thefuck --alias)
+ansiweather
 chuck_cow
+
+# zsh-bd
+. $HOME/.zsh/plugins/bd/bd.zsh
+source $HOME/.oh-my-zsh/plugins/calc/calc.plugin.zsh
+echo "Remember: randeme_rm if you don't like this theme !"

@@ -26,3 +26,16 @@ set colorcolumn=81
 :%retab!
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
+
+command! W w
+command! Q q
+command! WQ wq
+command! Wq wq
+command! WA wa
+command! Wa wa
+command! WQA wqa
+command! WQa wqa
+command! Wqa wqa
+command! WqA wqa
+command! XA xa
+command! Xa xa
