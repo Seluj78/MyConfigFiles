@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ejectKeywordEnabled</key>
-	<true/>
 	<key>emptytrashConfirm</key>
+	<true/>
+	<key>lockConfirm</key>
 	<true/>
 	<key>logoutConfirm</key>
 	<true/>
@@ -13,6 +13,8 @@
 	<key>restartConfirm</key>
 	<true/>
 	<key>shutdownConfirm</key>
+	<true/>
+	<key>sleepConfirm</key>
 	<true/>
 </dict>
 </plist>

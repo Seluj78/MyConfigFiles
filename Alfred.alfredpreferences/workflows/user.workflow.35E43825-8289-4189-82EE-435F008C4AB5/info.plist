@@ -17,6 +17,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -25,6 +27,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -33,6 +37,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2256D9F2-F0F1-4543-8893-622DDFA83A5E</key>
@@ -44,6 +50,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -52,6 +60,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -60,6 +70,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>6C80A2CD-4BBE-4E27-8BF5-FA913A95D604</key>
@@ -71,6 +83,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -79,6 +93,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -87,6 +103,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>9EE08AB6-59DC-4D7C-8B47-C4C7C514B77F</key>
@@ -98,6 +116,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -106,6 +126,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -114,6 +136,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>A1AB2B83-C8EF-4022-97B8-E20B3D6CBDF8</key>
@@ -125,6 +149,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -133,6 +159,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -141,6 +169,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>BFDA94C6-1294-4C3A-982B-B1DB7123F88B</key>
@@ -152,6 +182,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>CE3B4582-85A6-4757-B31D-9FFEC1DBF864</key>
@@ -163,6 +195,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -171,6 +205,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -179,6 +215,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>D748A814-EFF5-414E-B501-24DC2ECE64B9</key>
@@ -190,6 +228,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -198,6 +238,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -206,6 +248,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>DF34F852-ABCE-4C35-9363-7AABFF9D24C4</key>
@@ -217,6 +261,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -225,6 +271,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -233,6 +281,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>F2BEC6F7-52A4-43DA-83F9-438006D28B56</key>
@@ -244,6 +294,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -252,6 +304,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -260,6 +314,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>FB406D99-0DB3-4A23-8D3C-48AFC20D569E</key>
@@ -271,6 +327,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -279,6 +337,8 @@
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Reveal in OS X color panel</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
@@ -287,6 +347,8 @@
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
 				<string>Toggle alpha channel and copy</string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -303,16 +365,36 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
-				<string>c</string>
+				<string>colors</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Processing color data...</string>
 				<key>script</key>
 				<string>./colors '{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Convert CSS3 extended named colors</string>
 				<key>title</key>
@@ -327,21 +409,41 @@
 			<key>uid</key>
 			<string>A1AB2B83-C8EF-4022-97B8-E20B3D6CBDF8</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>hsl</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Processing color data...</string>
 				<key>script</key>
 				<string>./colors 'hsl{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Convert CSS HSL colors</string>
 				<key>title</key>
@@ -356,21 +458,41 @@
 			<key>uid</key>
 			<string>F2BEC6F7-52A4-43DA-83F9-438006D28B56</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>rgb</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Processing color data...</string>
 				<key>script</key>
 				<string>./colors 'rgb{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Convert CSS RGB colors</string>
 				<key>title</key>
@@ -385,15 +507,21 @@
 			<key>uid</key>
 			<string>6C80A2CD-4BBE-4E27-8BF5-FA913A95D604</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
 				<string>./colors --check '{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -402,7 +530,7 @@
 			<key>uid</key>
 			<string>1AE64A87-60D0-4230-B457-4609571FCA1F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -411,27 +539,49 @@
 				<true/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>DCF950C0-BEB0-4CFD-A79B-BA403852D463</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>#</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>Processing color data...</string>
 				<key>script</key>
 				<string>./colors '#{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Convert hexadecimal colors</string>
 				<key>title</key>
@@ -446,7 +596,7 @@
 			<key>uid</key>
 			<string>2256D9F2-F0F1-4543-8893-622DDFA83A5E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -455,9 +605,19 @@
 				<integer>0</integer>
 				<key>argument</key>
 				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
 				<integer>0</integer>
 			</dict>
 			<key>type</key>
@@ -465,7 +625,7 @@
 			<key>uid</key>
 			<string>BFDA94C6-1294-4C3A-982B-B1DB7123F88B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -474,11 +634,7 @@
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<true/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>'{query}' copied to clipboard</string>
@@ -490,15 +646,21 @@
 			<key>uid</key>
 			<string>85D1E110-A191-4FF5-9CFD-BB3B884C576F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
 				<string>./colors --reveal '{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -507,19 +669,43 @@
 			<key>uid</key>
 			<string>16EE3B14-8B6C-45CD-BCC1-C12BFC9B814F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>[ns</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>./colors '[NS{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>NSColor</string>
 				<key>type</key>
@@ -532,15 +718,21 @@
 			<key>uid</key>
 			<string>FB406D99-0DB3-4A23-8D3C-48AFC20D569E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
 				<string>./colors --toggle-alpha '{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -549,36 +741,66 @@
 			<key>uid</key>
 			<string>DF34F852-ABCE-4C35-9363-7AABFF9D24C4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
 				<string>./colors --flush</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.script</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>41372D75-6959-49AC-8CAF-2007E83E7BF4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>ns</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>./colors '[NS{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>NSColor</string>
 				<key>type</key>
@@ -591,19 +813,43 @@
 			<key>uid</key>
 			<string>CE3B4582-85A6-4757-B31D-9FFEC1DBF864</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>[ui</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>./colors '[UI{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>UIColor</string>
 				<key>type</key>
@@ -616,19 +862,43 @@
 			<key>uid</key>
 			<string>9EE08AB6-59DC-4D7C-8B47-C4C7C514B77F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>keyword</key>
 				<string>ui</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
 				<key>script</key>
 				<string>./colors '[UI{query}'</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
 				<key>title</key>
 				<string>UIColor</string>
 				<key>type</key>
@@ -641,7 +911,7 @@
 			<key>uid</key>
 			<string>D748A814-EFF5-414E-B501-24DC2ECE64B9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -650,76 +920,106 @@
 	<dict>
 		<key>16EE3B14-8B6C-45CD-BCC1-C12BFC9B814F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>1AE64A87-60D0-4230-B457-4609571FCA1F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>310</real>
 		</dict>
 		<key>2256D9F2-F0F1-4543-8893-622DDFA83A5E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>370</real>
 		</dict>
 		<key>41372D75-6959-49AC-8CAF-2007E83E7BF4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>550</real>
 		</dict>
 		<key>6C80A2CD-4BBE-4E27-8BF5-FA913A95D604</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>250</real>
 		</dict>
 		<key>85D1E110-A191-4FF5-9CFD-BB3B884C576F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>9EE08AB6-59DC-4D7C-8B47-C4C7C514B77F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>730</real>
 		</dict>
 		<key>A1AB2B83-C8EF-4022-97B8-E20B3D6CBDF8</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>BFDA94C6-1294-4C3A-982B-B1DB7123F88B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>100</integer>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
 		<key>CE3B4582-85A6-4757-B31D-9FFEC1DBF864</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>610</real>
 		</dict>
 		<key>D748A814-EFF5-414E-B501-24DC2ECE64B9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>850</real>
 		</dict>
 		<key>DCF950C0-BEB0-4CFD-A79B-BA403852D463</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>310</real>
 		</dict>
 		<key>DF34F852-ABCE-4C35-9363-7AABFF9D24C4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>550</real>
 		</dict>
 		<key>F2BEC6F7-52A4-43DA-83F9-438006D28B56</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>130</real>
 		</dict>
 		<key>FB406D99-0DB3-4A23-8D3C-48AFC20D569E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>490</real>
 		</dict>
