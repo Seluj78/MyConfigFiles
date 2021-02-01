@@ -39,3 +39,4 @@ command! Wqa wqa
 command! WqA wqa
 command! XA xa
 command! Xa xa
+set backspace=indent,eol,start

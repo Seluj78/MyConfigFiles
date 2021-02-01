@@ -57,8 +57,8 @@ touch ~/.gpush.sh
 chmod 777 ~/.gpush.sh
 cat /tmp/setupconfig/sources/gpush > ~/.gpush.sh
 
-cat /tmp/setupconfig/sources/vimrc >> ~/.vimrc
-cat /tmp/setupconfig/sources/zshrc >> ~/.zshrc
+cat /tmp/setupconfig/sources/.vimrc >> ~/.vimrc
+cat /tmp/setupconfig/sources/.zshrc >> ~/.zshrc
 
 mkdir ~/.vim
 
